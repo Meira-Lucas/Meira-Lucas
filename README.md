@@ -19,3 +19,12 @@
 Meira-Lucas/Meira-Lucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+##
+<div>
+Cobrinha com commits
+</div>
+<div>
+  <picture align="center"> 
+    <img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-svg.svg">
+  </picture>
+</div>
