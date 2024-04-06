@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ea%C3%AD+blz%3F+Sou+o+Lucas+Meira" alt="Typing SVG" /></a> 
  <br>
-## 👀 I’m interested....
+## 👀 I’m interested.... <br>
 # 📫 How to reach me 
  <a href="https://www.instagram.com/TheTayco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
