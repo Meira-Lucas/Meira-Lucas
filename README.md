@@ -33,3 +33,4 @@ Cobrinha com commits
     <img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-svg.svg">
   </picture>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&text_color=0000FF&height=120&section=footer"/>
