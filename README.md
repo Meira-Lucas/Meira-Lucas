@@ -1,8 +1,14 @@
 # ME
-- 👋 Hi, I’m Meira-Lucas
+## 👋 Hi, I’m Meira-Lucas
 - 👀 I’m interested in...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+## 📫 How to reach me 
+ <a href="https://www.instagram.com/TheTayco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="#"> <img src="https://img.shields.io/badge/-Gmail-00a368?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
  ## :mortar_board: Github Stats
 <div>
   <a href="https://github.com/Meira-Lucas"></a>
