@@ -11,11 +11,12 @@
 </div>
 
  ## :mortar_board: Github Stats
+<div align="center">
 <div style="display: inline_block">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Meira-Lucas&show_icons=true&theme=dracula" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meira-Lucas&langs_count=8&theme=dracula" />
 </div>
-
+</div>
 <br>
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
