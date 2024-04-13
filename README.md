@@ -1,6 +1,6 @@
-
+<div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Olá+👋+Sou+o+Lucas+Meira" alt="Typing SVG" /></a> 
- <br>
+</div><br>
 ## 👀 I’m interested.... <br>
 # 📫 Como me contactar
  <a href="https://www.instagram.com/thetayco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
