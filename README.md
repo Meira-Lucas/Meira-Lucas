@@ -25,7 +25,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 </div>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ##
