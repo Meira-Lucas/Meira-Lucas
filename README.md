@@ -14,7 +14,7 @@
  <a href="https://www.instagram.com/thetayco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-fa051d?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-454444?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-fa051d?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="#"> <img src="https://img.shields.io/badge/-Gmail-454444?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:lucas.meira2007@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-454444?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-fa051d?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
