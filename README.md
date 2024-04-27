@@ -46,4 +46,4 @@
     <img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-svg.svg">
   </picture>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fae8a0&text_color=6f2376&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8198e3&text_color=6f2376&height=120&section=footer"/>
