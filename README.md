@@ -6,8 +6,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Short+Stack&pause=1000&color=F70707&random=false&width=435&lines=OL%C3%A1+eu+sou+o+Lucas+Meira+;Sou+desenvolvedor%2C+ainda+evoluindo" alt="Typing SVG" /></a>
 </div><br>
 
-## 👀 I’m interested.... <br>
-# 📫 Como me contactar 
+
+## 📫 Como me contactar 
 
 
 <div align="center">
@@ -26,6 +26,9 @@
 </div>
 </div>
 <br>
+
+## 💻​Linguagens usadas 
+
 <div style="display: inline_block" align="center">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
