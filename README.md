@@ -39,8 +39,6 @@
 </div>
 
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 ##
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
